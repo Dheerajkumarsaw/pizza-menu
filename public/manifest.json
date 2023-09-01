@@ -1,5 +1,5 @@
 {
-  "short_name": "React App",
+  "short_name": "Pizza Menu",
   "name": "Create React App Sample",
   "icons": [
     {
@@ -8,17 +8,17 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
